@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/resume-factory/static/js/main.141b5fae.js",
+    "static/media/DENG.TTF": "/resume-factory/static/media/DENG.fca8f22854ed654a3397.TTF",
+    "index.html": "/resume-factory/index.html",
+    "main.141b5fae.js.map": "/resume-factory/static/js/main.141b5fae.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.141b5fae.js"
+  ]
+}
