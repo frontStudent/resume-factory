@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.js": "/resume-factory/static/js/main.141b5fae.js",
+    "main.css": "/resume-factory/static/css/main.17ded59c.css",
+    "main.js": "/resume-factory/static/js/main.6b6ea4be.js",
     "static/media/DENG.TTF": "/resume-factory/static/media/DENG.fca8f22854ed654a3397.TTF",
     "index.html": "/resume-factory/index.html",
-    "main.141b5fae.js.map": "/resume-factory/static/js/main.141b5fae.js.map"
+    "main.17ded59c.css.map": "/resume-factory/static/css/main.17ded59c.css.map",
+    "main.6b6ea4be.js.map": "/resume-factory/static/js/main.6b6ea4be.js.map"
   },
   "entrypoints": [
-    "static/js/main.141b5fae.js"
+    "static/css/main.17ded59c.css",
+    "static/js/main.6b6ea4be.js"
   ]
 }
